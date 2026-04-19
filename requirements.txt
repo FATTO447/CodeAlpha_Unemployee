@@ -6,3 +6,5 @@ requests
 joblib
 scikit-learn
 xgboost
+sqlalchemy
+pymysql
